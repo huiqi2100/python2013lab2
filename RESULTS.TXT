@@ -1,0 +1,13 @@
+DATE: 27/01/2013                   TIME: 4:06 PM
+RESULTS OF THE 2013 PUNGGOL EAST SMC BY ELECTION
+WARD                PARTY     #VOTES    %VOTES
+--------------------------------------------------
+PUNGGOL EAST SMC    PAP        17346    51.02%
+                    RP           679    2.00%
+                    SDA         1643    4.83%
+                    WP         13664    40.19%
+--------------------------------------------------
+WINNER: PAP
+TOTAL VOTES: 34000
+#SPOILT VOTES: 668
+%SPOILT VOTES: 1.9647058823529413
